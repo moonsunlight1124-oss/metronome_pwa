@@ -1,0 +1,9 @@
+/* TEAM */
+Developer: Roman
+Site: https://tempotweak.com/
+Contact: hello@tempotweak.com
+
+/* SITE */
+Technology: React + Vite PWA
+Description: Dynamic tempo metronome for musicians
+Last updated: 2025-10-17

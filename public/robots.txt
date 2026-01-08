@@ -1,0 +1,5 @@
+# robots.txt for https://tempotweak.com/
+User-agent: *
+Allow: /
+
+Sitemap: https://tempotweak.com/sitemap.xml
